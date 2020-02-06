@@ -1,0 +1,7 @@
+/execute at @e[type=minecraft:villager,sort=nearest,limit=1] run 
+
+
+
+execute at @e[type=minecraft:arrow] run fill ~-2 ~-1 ~-2 ~2 ~2 ~2 minecraft:air
+execute at @e[type=minecraft:egg] run fill ~-2 ~-5 ~-2 ~2 ~-5 ~2 minecraft:blue_wool
+execute at @e[type=minecraft:snowball] run summon minecraft:tnt ~0 ~-2 ~0 {Fuse:50b}
