@@ -16,3 +16,6 @@ Shiritori
 
 OneCounter
   - Counts how many consecutive blocks of more than 1 1 there are in a string of 1's and 0's
+
+GCD
+  - Finds the greatest common denominator of 2 numbers.
