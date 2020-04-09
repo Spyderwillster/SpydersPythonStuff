@@ -13,3 +13,6 @@ LaunchPong
   
 Shiritori
   - A game where you have to list words that start with the last letter of your last word without reusing words.
+
+OneCounter
+  - Counts how many consecutive blocks of more than 1 1 there are in a string of 1's and 0's
